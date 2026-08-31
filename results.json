@@ -14,7 +14,7 @@
                         {
                             "teamId": "V01",
                             "name": "LEE MIN ZER",
-                            "status": "in progress"
+                            "status": "scored"
                         },
                         {
                             "teamId": "V02",
@@ -3385,5 +3385,5 @@
             "knockout": null
         }
     ],
-    "publishedAt": "2026-08-31T07:43:53+00:00"
+    "publishedAt": "2026-08-31T07:50:21+00:00"
 }
