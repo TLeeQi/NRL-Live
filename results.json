@@ -1,1 +1,3389 @@
-{"event":"NRL 2027","categories":[],"publishedAt":"2026-08-31T07:36:27+00:00","test":true}
+{
+    "event": "NRL 2027",
+    "categories": [
+        {
+            "id": "vinu-push-run",
+            "name": "G-PRC VINU Push & Run",
+            "day": "Friday",
+            "method": "vinu",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "V01",
+                            "name": "LEE MIN ZER",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V02",
+                            "name": "TAN YI HANG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V03",
+                            "name": "TEOH KE QI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V04",
+                            "name": "NG YUN HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V05",
+                            "name": "JAEDRON ARUL A/L JAMES ARUL",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V06",
+                            "name": "LIM JING HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V07",
+                            "name": "FOO CAYVEZ",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V08",
+                            "name": "MUHAMMAD SUFI RAUF BIN MOHD RAFIZ",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V09",
+                            "name": "RAKSHIR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V10",
+                            "name": "LIM YEW HOW",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V11",
+                            "name": "KO HAU TIM",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V12",
+                            "name": "WONG JUN HONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V13",
+                            "name": "CHAM YU CHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V14",
+                            "name": "NATALIE HIEW",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V15",
+                            "name": "YAP YU CHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V16",
+                            "name": "LIM WEI JIA",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V17",
+                            "name": "TAN JIAN HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "V18",
+                            "name": "JENNA TEY JIA YING",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "line-master",
+            "name": "Line Tracer Master",
+            "day": "Friday",
+            "method": "lineTracer",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "LM01",
+                            "name": "TAN JHUN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM02",
+                            "name": "LEONG JIN CHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM03",
+                            "name": "GAN V SHUEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM04",
+                            "name": "RAGHUNATH A/L PANDIAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM05",
+                            "name": "AUGUS MOO EN JUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM06",
+                            "name": "HONG TZE JUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM07",
+                            "name": "LAW JUN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM08",
+                            "name": "CHAN ZI RAY",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM09",
+                            "name": "DILSHARN A/L BARATH KUMAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM10",
+                            "name": "HEY HUAN XUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM11",
+                            "name": "NG LAY HONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM12",
+                            "name": "BEH XU KAI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM13",
+                            "name": "GWEE QUAN FENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM14",
+                            "name": "NG EE KAI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LM15",
+                            "name": "LAI SHI LUN",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "line-senior",
+            "name": "PROBO Line Tracer Senior",
+            "day": "Friday",
+            "method": "lineTracer",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "LS01",
+                            "name": "LIM NUO QIAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS02",
+                            "name": "CHOO YAO LOK",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS03",
+                            "name": "ONG LING EN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS04",
+                            "name": "HARISUDARSHAN VEKNESH",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS05",
+                            "name": "VANESSA FAM XIANG YEE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS06",
+                            "name": "CHIA YOU ZHAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS07",
+                            "name": "HYDRIAN PUA HANE MENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS08",
+                            "name": "TEJESHWAR A/L TAMILSELVAM",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS09",
+                            "name": "CHONG KAI SHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS10",
+                            "name": "JASON TEO SHENG KEAT",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS11",
+                            "name": "LIM ZHUO RUI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS12",
+                            "name": "CHEN HONG JUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS13",
+                            "name": "LIM MIN JOU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "LS14",
+                            "name": "WONG ZI YU",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "project-probo",
+            "name": "PROBO Innovation Project Challenge",
+            "day": "Friday",
+            "method": "projectOpen",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "PC01",
+                            "name": "LIM XIN TONG & ANG KEN YEE & YAP WAYDEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC02",
+                            "name": "LEONG JIN CHENG & CHAN JIAN HENG & FRANCIS OOI JUN FEI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC03",
+                            "name": "KINGSLEY FONG SHENG YANG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC04",
+                            "name": "JAYDEN TAN PONG YU & TANG KHAI YANG & BRYAN NG JING HENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC05",
+                            "name": "SURTEESH A/L CHANDRAN & DIISHENDHRAN A/L UTHAYANDRAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC06",
+                            "name": "CHAI MING KAI & CHAI MING HUI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC07",
+                            "name": "SUTHEESHAN A/L SIVANESEH SUNDRAN & UMAR WAJDI BIN MOHD JAFNI & NAVIN A/L RAMES",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC08",
+                            "name": "SHAWN OOI YOU SHAN & PHELAN LEE YI XUN & YONG YING XUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC09",
+                            "name": "SHAASHVATH NAVIN KUMAR & ETHAN EN LYANG BIN & LUCAS CHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PC10",
+                            "name": "ELIJAH CHENG ZEE RUI & CHIA YOU ZHAN & TAI YUAN HONG",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "project-open",
+            "name": "Innovation Project Challenge",
+            "day": "Friday",
+            "method": "projectOpen",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "PX01",
+                            "name": "HONG TZE JUN & CHEW YI WEN & RITESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX02",
+                            "name": "ALFRED CIAH TING LE & JEVEN HOH JIA CHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX03",
+                            "name": "GOH YU ZHE & YEONG ZI HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX04",
+                            "name": "DILSHARN A/L BARATH KUMAR & RYAN SHANTH A/L BARATH KUMAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX05",
+                            "name": "NEO XUAN HE & HYDRIAN PUA HANE MENG & EDREN HO ZY YU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX06",
+                            "name": "TAANESH A/L NADARAJAN & ASRIEL DAVID CHRISTOPHER A/L JEYAPRAKASH",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX07",
+                            "name": "TAN PAUL YIE & DEXTER LEE YI LONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX08",
+                            "name": "CHIA YU HE & PANKAJH A/L S SIVANJANAM & LIM JUN RUI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX09",
+                            "name": "ANGUS WONG HUA JOE & PANG XING HAO & CHOW KAI ZHI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "PX10",
+                            "name": "NEROSHEN SIRITARAN & SANJEEVAN SIRITARAN",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "scratch",
+            "name": "Scratch Coding Challenge",
+            "day": "Friday",
+            "method": "scratch",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "C01",
+                            "name": "LOH YANG ZHE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C02",
+                            "name": "LIM XIN TONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C03",
+                            "name": "JAYREN LIEW XIANG MAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C04",
+                            "name": "SHAWN WONG HAO TIN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C05",
+                            "name": "BENNETT YAP KAI TAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C06",
+                            "name": "LIEU JUN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C07",
+                            "name": "LEE KHAI SIEM",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C08",
+                            "name": "TAI YI ZHUO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C09",
+                            "name": "LOO LIANG WEI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C10",
+                            "name": "TAI MENG WEI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C11",
+                            "name": "YEONG ZI HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C12",
+                            "name": "WONG CHIAN RUI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C13",
+                            "name": "KASHWIN A/L SELVAM",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C14",
+                            "name": "YONG QI YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "C15",
+                            "name": "YAP YAN ZE",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "touch-junior",
+            "name": "G-PRC Speed Touch Junior",
+            "day": "Saturday",
+            "method": "speedTouch",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ01",
+                            "name": "HENRY ONG KIAN CHEONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ02",
+                            "name": "CHOONG JAVIER",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ03",
+                            "name": "SAMUEL TAN JUIN KAI & Siti & Uda",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ04",
+                            "name": "LIM YOU HUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ05",
+                            "name": "LIM KAI SEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ06",
+                            "name": "TEW TAE YU",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ07",
+                            "name": "MUHAMMAD SYAUQI RIZQIN BIN MOHD RAFIZ",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ08",
+                            "name": "YAP ZER YU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ09",
+                            "name": "CHONG GUAN SONG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ10",
+                            "name": "WONG HAO ZHE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ11",
+                            "name": "WONG SIN YUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ12",
+                            "name": "PRINCE WONG JI HEI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ13",
+                            "name": "SHAELIYAAN  REDDY A/L GUNASEGARAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ14",
+                            "name": "TESVEEN PERAGAS",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ15",
+                            "name": "YANG CHEN XIN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TJ16",
+                            "name": "TEE YI HANG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ17",
+                            "name": "LIM JING HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TJ18",
+                            "name": "JAYDEN OOI YOU MIN",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 1,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "touch-senior",
+            "name": "G-PRC Speed Touch Senior",
+            "day": "Saturday",
+            "method": "speedTouch",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS01",
+                            "name": "ONG TING KENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS02",
+                            "name": "LIM WEI ERN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS03",
+                            "name": "ISSAC TAN JUIN YAN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS04",
+                            "name": "YAP WAYDEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS05",
+                            "name": "CHOONG JARED",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS06",
+                            "name": "PAUL YAP QI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS07",
+                            "name": "TAN WEI LONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS08",
+                            "name": "TEOH JIN TENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS09",
+                            "name": "ALEX TAI KHAI ZHE",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS10",
+                            "name": "TAN YI HERN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS11",
+                            "name": "TAN AN TONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS12",
+                            "name": "WONG MENG JUN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS13",
+                            "name": "SEE JASON",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS14",
+                            "name": "LUCAS OOI JUN LE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS15",
+                            "name": "LIM YOU JUN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TS16",
+                            "name": "OOI TIAN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS17",
+                            "name": "YU ZI XUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TS18",
+                            "name": "LEE JOJUN",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "touch-master",
+            "name": "Speed Touch Master",
+            "day": "Saturday",
+            "method": "speedTouch",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM01",
+                            "name": "CHOONG LEAN ZEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM02",
+                            "name": "TAN JHUN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM03",
+                            "name": "LIM XIN TONG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM04",
+                            "name": "LEONG JIN CHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM05",
+                            "name": "OOI YOU WEI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM06",
+                            "name": "OOI YOU JIE",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM07",
+                            "name": "TAN XUN SHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM08",
+                            "name": "ANG KEN YEE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM09",
+                            "name": "CHAN JIAN HENG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM10",
+                            "name": "NG SHIN ICHI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM11",
+                            "name": "ETHAN LAW SHUN CHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM12",
+                            "name": "AMES CHUA YUAN SONG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM13",
+                            "name": "VINCENT TAN YI SHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM14",
+                            "name": "BRYAN NG JING HENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM15",
+                            "name": "LIM WEI DE",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "TM16",
+                            "name": "THIVENESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM17",
+                            "name": "SHAWN OOI YOU SHAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "TM18",
+                            "name": "SHAWN WONG ZHEN YUI",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "tug-of-war",
+            "name": "PROBO Tug of War",
+            "day": "Saturday",
+            "method": "sumo",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W01",
+                            "name": "JENNIE ONG SIN YUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W02",
+                            "name": "OOI YOU XUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W03",
+                            "name": "LIAM NG PHILLIPS",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W04",
+                            "name": "YEO KAI FENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W05",
+                            "name": "LIAW CHEN XU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W06",
+                            "name": "AIK CHONG YOU",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W07",
+                            "name": "TERNEES QIU TENG YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W08",
+                            "name": "NATHAN XU ZHENG HUA",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W09",
+                            "name": "FREDERIC NG SHENG YIH",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W10",
+                            "name": "JAASHWIN A/L SAILANTHEREN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W11",
+                            "name": "LIM YEW HOW",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W12",
+                            "name": "SHAARVAN KALITHASAN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W13",
+                            "name": "RAKSHIR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W14",
+                            "name": "LIYASHRUTHI A/P VEKNESH",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W15",
+                            "name": "MUHAMMAD SUFI RAUF BIN MOHD RAFIZ",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "W16",
+                            "name": "YAAHDHAV KAMALANATHAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W17",
+                            "name": "JAASHVIKH A/L YOGESWARAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "W18",
+                            "name": "TAN TZEN SHENG",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sumo-junior",
+            "name": "G-PRC RC Sumo Junior",
+            "day": "Sunday",
+            "method": "sumo",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ01",
+                            "name": "CHOONG JAVIER",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ02",
+                            "name": "SAMUEL TAN JUIN KAI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ03",
+                            "name": "LIM YOU HUAN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ04",
+                            "name": "LIM KAI SEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ05",
+                            "name": "LEE MIN ZER",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ06",
+                            "name": "TAN YI HANG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ07",
+                            "name": "ONG WEI XIANG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ08",
+                            "name": "LIEW ZHI YUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ09",
+                            "name": "BAVESH PRANAAV DINASH",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ10",
+                            "name": "KHEK MING KUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ11",
+                            "name": "WONG SIN YUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ12",
+                            "name": "PRINCE WONG JI HEI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ13",
+                            "name": "SOON ZHI LIN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ14",
+                            "name": "TEW TAE YU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ15",
+                            "name": "MUHAMMAD SYAUQI RIZQIN BIN MOHD RAFIZ",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SJ16",
+                            "name": "YAP ZER YU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ17",
+                            "name": "CHONG GUAN SONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SJ18",
+                            "name": "OO ZI NING RENIE",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sumo-senior",
+            "name": "G-PRC Auto Sumo Senior",
+            "day": "Sunday",
+            "method": "sumo",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS01",
+                            "name": "KHOR EAN SHERN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS02",
+                            "name": "ONG TING KENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS03",
+                            "name": "LIM WEI ERN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS04",
+                            "name": "ISSAC TAN JUIN YAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS05",
+                            "name": "YAP WAYDEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS06",
+                            "name": "CHOONG JARED",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS07",
+                            "name": "PAUL YAP QI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS08",
+                            "name": "TAN WEI LONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS09",
+                            "name": "TEOH JIN TENG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS10",
+                            "name": "ALEX TAI KHAI ZHE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS11",
+                            "name": "TAN YI HERN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS12",
+                            "name": "TAN AN TONG",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS13",
+                            "name": "WONG MENG JUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS14",
+                            "name": "SEE JASON",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS15",
+                            "name": "LUCAS OOI JUN LE",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SS16",
+                            "name": "LIM YOU JUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS17",
+                            "name": "OOI TIAN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SS18",
+                            "name": "ROWEN EW",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sumo-master",
+            "name": "Auto Sumo Master",
+            "day": "Sunday",
+            "method": "sumo",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM01",
+                            "name": "CHOONG LEAN ZEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM02",
+                            "name": "TAN JHUN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM03",
+                            "name": "OOI YOU WEI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM04",
+                            "name": "OOI YOU JIE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM05",
+                            "name": "TAN XUN SHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM06",
+                            "name": "NG SHIN ICHI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM07",
+                            "name": "ETHAN LAW SHUN CHEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM08",
+                            "name": "AMES CHUA YUAN SONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM09",
+                            "name": "FRANCIS OOI JUN FEI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM10",
+                            "name": "VINCENT TAN YI SHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM11",
+                            "name": "THAM DI QIAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM12",
+                            "name": "GAN V SHUEN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM13",
+                            "name": "ORRICK ONG JIAN YU",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM14",
+                            "name": "BENNETT YAP KAI TAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM15",
+                            "name": "HAARIS VIJAYENDRAN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SM16",
+                            "name": "TAI YUAN HONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM17",
+                            "name": "THIVENESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SM18",
+                            "name": "LOO LIANG WEI",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sumo-1kg",
+            "name": "RC Sumo 1kg Open",
+            "day": "Sunday",
+            "method": "sumo",
+            "groups": [
+                {
+                    "group": "1",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX01",
+                            "name": "JAZZ KOW ZHY XUN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX02",
+                            "name": "CHYE JIN LE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX03",
+                            "name": "RITESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "2",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX04",
+                            "name": "CHIA CHENG ZHAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX05",
+                            "name": "YEO KAI XUAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX06",
+                            "name": "DARENDEV MAHESWARAN PILLAI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "3",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX07",
+                            "name": "WONG JUN HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX08",
+                            "name": "CARL CHIEW YAN SHENG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX09",
+                            "name": "NUR DHIA QAISARA BINTI ASNADI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "4",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX10",
+                            "name": "NUR DALILA SOFEA BINTI ASNADI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX11",
+                            "name": "ANIQ IZZUDDIN BIN JOHARI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX12",
+                            "name": "MUHAMMAD HAIRUL HAZREY BIN MASLI",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "5",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX13",
+                            "name": "MUHAMMAD SYAHMI ZIKRY BIN SHAHRIZAL",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX14",
+                            "name": "AZZAD AZHARI BIN KHAIRUDIN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX15",
+                            "name": "RIYAD RUSYAIDI BIN KHAIRUDIN",
+                            "status": "in progress"
+                        }
+                    ]
+                },
+                {
+                    "group": "6",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "SX16",
+                            "name": "BUSHRAA HUMAIRAA BINTI MAT KAMIL",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX17",
+                            "name": "MUHAMMAD AKRAM ANSAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "SX18",
+                            "name": "MUHAMMAD HAZIQ BIN ANSAR",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": {
+                "total": 3,
+                "champion": null,
+                "rounds": [
+                    {
+                        "name": "Quarter-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": "1",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 1"
+                                },
+                                "b": {
+                                    "group": "2",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": "3",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 3"
+                                },
+                                "b": {
+                                    "group": "4",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 4"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 2,
+                                "a": {
+                                    "group": "5",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 5"
+                                },
+                                "b": {
+                                    "group": "6",
+                                    "size": 3,
+                                    "pending": 3,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Group 6"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Semi-final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 2"
+                                },
+                                "winner": null
+                            },
+                            {
+                                "index": 1,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "b": null,
+                                "winner": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Final",
+                        "matches": [
+                            {
+                                "index": 0,
+                                "a": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 1"
+                                },
+                                "b": {
+                                    "group": null,
+                                    "size": null,
+                                    "pending": 0,
+                                    "complete": false,
+                                    "tied": false,
+                                    "teamId": null,
+                                    "label": "Winner of match 3"
+                                },
+                                "winner": null
+                            }
+                        ]
+                    }
+                ],
+                "matches": [
+                    {
+                        "index": 0,
+                        "a": {
+                            "group": "1",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 1"
+                        },
+                        "b": {
+                            "group": "2",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 2"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 1,
+                        "a": {
+                            "group": "3",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 3"
+                        },
+                        "b": {
+                            "group": "4",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 4"
+                        },
+                        "winner": null
+                    },
+                    {
+                        "index": 2,
+                        "a": {
+                            "group": "5",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 5"
+                        },
+                        "b": {
+                            "group": "6",
+                            "size": 3,
+                            "pending": 3,
+                            "complete": false,
+                            "tied": false,
+                            "teamId": null,
+                            "label": "Group 6"
+                        },
+                        "winner": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "drone-coding",
+            "name": "Speed Drone Master Closed",
+            "day": "Sunday",
+            "method": "drone",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "DB01",
+                            "name": "ALFRED NG BING YAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB02",
+                            "name": "REVAN JEYVIDYUT A/L RAJASEGAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB03",
+                            "name": "YOLANDA SIM XIAO JIN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB04",
+                            "name": "CHAN KEI FONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB05",
+                            "name": "NG DYHOW",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB06",
+                            "name": "DEXTER LEE YI LONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB07",
+                            "name": "PANKAJH A/L S SIVANJANAM",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB08",
+                            "name": "ANGUS WONG HUA JOE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB09",
+                            "name": "PANG XING HAO",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DB10",
+                            "name": "EAMOND SIM LI YANG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC01",
+                            "name": "HOWARD GOH ZE HAW",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC02",
+                            "name": "OON YU HONG",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC03",
+                            "name": "LEE YAN YI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC04",
+                            "name": "ONG ZHENG YEN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC05",
+                            "name": "MOOK JIN MING",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC06",
+                            "name": "POWINIESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC07",
+                            "name": "VANESSA FAM XIANG YEE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC08",
+                            "name": "DILSHARN A/L BARATH KUMAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DC09",
+                            "name": "DARENDEV MAHESWARAN PILLAI",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        },
+        {
+            "id": "drone-open",
+            "name": "Speed Drone Master Open",
+            "day": "Sunday",
+            "method": "drone",
+            "groups": [
+                {
+                    "group": "none",
+                    "complete": false,
+                    "teams": [
+                        {
+                            "teamId": "DX01",
+                            "name": "SIDAARRTH A/L KUHENESH",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX02",
+                            "name": "POWINIESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX03",
+                            "name": "RITESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX04",
+                            "name": "THIVENESH A/L KALAISELVAN",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX05",
+                            "name": "DARENDEV MAHESWARAN PILLAI",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX06",
+                            "name": "DILSHARN A/L BARATH KUMAR",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX07",
+                            "name": "MOOK JIN MING",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX08",
+                            "name": "TAN PAUL YIE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX09",
+                            "name": "CHIA YU HE",
+                            "status": "in progress"
+                        },
+                        {
+                            "teamId": "DX10",
+                            "name": "JAYESH RAM A/L MUTHU KUMARAN",
+                            "status": "in progress"
+                        }
+                    ]
+                }
+            ],
+            "knockout": null
+        }
+    ],
+    "publishedAt": "2026-08-31T07:43:46+00:00"
+}
